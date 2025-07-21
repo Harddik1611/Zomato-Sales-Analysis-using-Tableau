@@ -67,3 +67,11 @@
 
 ## Contributing 🤝
 🤝 Join the journey. Fork this repository, propose enhancements, or add new analyses to enrich this vibrant data story.
+
+## Recommendations 🚀
+- Introduce targeted training for delivery personnel like Kiran Desai (2.5 rating) to boost performance and reduce average delivery times.
+- Expand marketing efforts in emerging markets such as Gujarat and Karnataka to capitalize on their rising booking trends.
+- Implement a real-time rider availability tracker to address the 1,490 "Rider Unavailable" cancellations and improve service reliability.
+- Develop incentive programs for top performers like Sandeep Kumar and Rohit Sharma to maintain high delivery standards.
+- Explore partnerships with local restaurants in rural Tamil Nadu to sustain the 8% booking growth from these areas.
+- Enhance customer support systems to reduce the 1,470 "Customer Cancellation" instances by improving communication and order updates.
